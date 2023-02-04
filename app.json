@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "ewoc",
+    "description": "your app desc",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.dbtech.ewoc"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "69cba14a-253b-410c-a0d5-11a0b15068de"
+      }
+    }
+  }
+}
